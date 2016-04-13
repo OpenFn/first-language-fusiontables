@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "language-dhis2",
   "version": "0.0.1",
   "description": "DHIS2 Language Pack for OpenFn",
@@ -32,4 +33,11 @@
     "sinon": "^1.17.2",
     "superagent-mock": "^1.10.0"
   }
+=======
+    "name": "superagent-oauth"
+  , "version": "0.2.3"
+  , "main": "./superagent-oauth"
+  , "description": "Tiny superagent plugin to easily sign requests with node-oauth."
+  , "repository": { "type": "git", "url": "git://github.com/LearnBoost/superagent-oauth.git" }
+>>>>>>> e4098370437dd2a7cb25230ae386f8a520dcb1b1
 }
